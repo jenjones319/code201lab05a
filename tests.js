@@ -1,21 +1,4 @@
-DeltaVCode
-/
-cedarrapids-201d6
-2
-31
- Code
- Issues 0
- Pull requests 0 Actions
- Projects 0
- Wiki
- Security 0
- Insights
-cedarrapids-201d6/class-05/lab-a/starter-code/tests.js /
-@tektechnologies tektechnologies add lab
-09fb899 2 days ago
-51 lines (44 sloc)  2.04 KB
-  
-'use strict';
+  'use strict';
 
 // You should not modify anything in this file, but feel free to look through it!
 
@@ -66,15 +49,4 @@ function testMultiplyAnyArray() { //eslint-disable-line
     console.log('%c TEST FOR multiplyAnyArray() FAILS', 'color: red');
   }
 }
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+//© 2020 GitHub, Inc.
